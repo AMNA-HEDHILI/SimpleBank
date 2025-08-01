@@ -13,7 +13,8 @@ A simple Python-based OOP banking system that supports:
 - `bank/`: Core banking logic
 - `tests/`: Unit tests
 - `examples/`: Demo script
-🚧 To-Do / Future Work
+  
+##🚧 To-Do / Future Work
 This project is still evolving. Planned improvements include:
 
 💾 Add persistent storage
