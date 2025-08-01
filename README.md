@@ -13,12 +13,6 @@ A simple Python-based OOP banking system that supports:
 - `bank/`: Core banking logic
 - `tests/`: Unit tests
 - `examples/`: Demo script
-
-## 🚀 How to Run
-
-```bash
-python examples/run_demo.py
-
 🚧 To-Do / Future Work
 This project is still evolving. Planned improvements include:
 
@@ -30,3 +24,9 @@ Build a Command Line Interface using argparse or typer, or create a lightweight 
 
 📊 Track transaction history
 Store a log of all deposits, withdrawals, and transfers per account, and optionally generate reports or visualizations.
+
+## 🚀 How to Run
+
+```bash
+python examples/run_demo.py
+
